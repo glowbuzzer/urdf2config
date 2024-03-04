@@ -6,7 +6,7 @@ Ignores the first link in the URDF chain.
 
 ```
 pnpm install
-node index.mjs <urdf files>
+node index.mjs <urdf file>
 ```
 
 Config fragment will be output to the console.
